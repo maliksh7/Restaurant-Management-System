@@ -7,3 +7,6 @@
 - C++ 
 - Microsoft Visual Studio
 -  VS Code 
+
+## Note: 
+Can run build on windows click [here](https://github.com/maliksh7/Restaurant-Management-System/tree/master/Project1/Release) , and execute project1.exe file.
